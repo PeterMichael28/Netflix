@@ -41,7 +41,6 @@ const Home = ({
    <Head>
     <title>Netflix</title>
     <link rel="icon" href="/favicon.ico" />
-    h-screen
    </Head>
   
 
